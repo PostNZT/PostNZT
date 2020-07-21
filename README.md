@@ -7,4 +7,6 @@
 - ⚡ Fun fact: We're all gonna DIE. REMEMBER DEATH!
 🐱‍👤
 
-🐱•💻🐱•🐉🐱‍👓
+🐱•💻
+🐱•🐉
+🐱‍👓
