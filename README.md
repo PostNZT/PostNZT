@@ -9,3 +9,5 @@
 - 🐱‍💻 Mushin
 - 🐱‍🏍 Fudoshin
 - 🐱‍👓 Zanshin
+
+[(☞ﾟヮﾟ)☞](http://thecodelesscode.com/case/1) 
