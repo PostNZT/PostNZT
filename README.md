@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on SOMETHING...
-- 🌱 I’m currently a learning React-Redux Structure
-- 💬 Ask me about PHILOSOPHY
-- 📫 How to reach me: jhunecarlo.trogelio@gmail.com
+- 🔭 I’m currently working on the 8th plane...
 - ⚡ Fun fact: We're all gonna DIE. REMEMBER DEATH!
 
 ✔✔✔ Everything begins in the mind.
