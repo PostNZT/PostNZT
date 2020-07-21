@@ -5,11 +5,10 @@
 - 💬 Ask me about PHILOSOPHY
 - 📫 How to reach me: jhunecarlo.trogelio@gmail.com
 - ⚡ Fun fact: We're all gonna DIE. REMEMBER DEATH!
-🐱‍👤
 
+✔✔✔ Everything begins in the mind.
 
-🐱‍💻
-
-🐱‍🏍
-
-🐱‍👓
+- 🐱‍👤 Shoshin
+- 🐱‍💻 Mushin
+- 🐱‍🏍 Fudoshin
+- 🐱‍👓 Zanshin
