@@ -7,4 +7,4 @@
 - 🐱‍🏍 Fudoshin
 - 🐱‍👓 Zanshin
 
-[(☞ﾟヮﾟ)☞](http://thecodelesscode.com/case/1) 
+[(☞ﾟヮﾟ)☞ CODE OF LIFE](http://thecodelesscode.com/case/1) 
