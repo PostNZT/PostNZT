@@ -1,6 +1,5 @@
-### Hi there 👋
-- 🔭 I’m currently working on the 8th plane...
+### Hi there 👋...
 - ⚡ Fun fact: Everything begins in the mind.
 - ⛩ Shoshin 💻 Mushin 🏍 Fudoshin 👓 Zanshin
 
-[(☞ﾟヮﾟ)☞ CODE OF LIFE](http://thecodelesscode.com/case/1) 
+[(☞ﾟヮﾟ)☞ NINJA WAY OF LIFE](https://framework.zend.com/participate/code-manifesto) 
