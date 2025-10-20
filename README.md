@@ -22,8 +22,16 @@ Passionate about crafting scalable solutions and driving continuous improvement.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=postnzt&show_icons=true&theme=vue-dark&count_private=true&hide_border=true&bg_color=1c1c1c" alt="GitHub Stats" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=postnzt&theme=vue-dark&hide_border=true&background=1c1c1c" alt="GitHub Streak" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=postnzt&show_icons=true&theme=vue-dark&count_private=true&hide_border=true&bg_color=1c1c1c" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=postnzt&theme=vue-dark&hide_border=true&background=1c1c1c" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 <p align="center">
