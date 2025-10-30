@@ -18,27 +18,19 @@ Passionate about crafting scalable solutions and driving continuous improvement.
 ## 📊 Stats
 
 <p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=postnzt&radius=16&theme=react&area=true&order=5&line=6E3DE5&point=6E3DE5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=postnzt&radius=16&theme=react&area=true&order=5&line=6E3DE5&point=6E3DE5" height="300" alt="activity-graph graph" /> 
 </p>
 
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=postnzt&show_icons=true&theme=vue-dark&count_private=true&hide_border=true&bg_color=1c1c1c" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=postnzt&theme=vue-dark&hide_border=true&background=1c1c1c" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=postnzt&layout=compact&theme=vue-dark&hide_border=true&bg_color=1c1c1c" alt="Top Languages" />
-
-  
-</p>
+<div align="center"> 
+  <table> 
+    <tr> 
+      <td align="center"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=postnzt&show_icons=true&theme=vue-dark&count_private=true&hide_border=true&bg_color=1c1c1c" alt="GitHub Stats" /> 
+      </td> <td align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=postnzt&layout=compact&theme=vue-dark&hide_border=true&bg_color=1c1c1c" alt="Top Languages" /> 
+      </td> 
+    </tr> 
+  </table> 
+</div>
 
 ---
 
